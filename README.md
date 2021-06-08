@@ -1,6 +1,10 @@
 ## Hello, You are welcome to my github world.
 ### I am an intelligent, highly disciplined and goal oriented lady who started her journey into the data science world January, 2020. Proir to that, I have done a bit of play around with front end web development specifically html and css. I code in Python and R and I am very comfortable with PowerBI.
 
+[![Sumayyah's github stats](https://github-readme-stats.vercel.app/api?username=Sumta4real1&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **Sumta4real/Sumta4real** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
