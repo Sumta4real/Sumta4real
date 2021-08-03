@@ -1,9 +1,9 @@
 ## Hello, You are welcome to my github world.
 ### I am an intelligent, highly disciplined and goal oriented lady who started her journey into the data science world January, 2020. Proir to that, I have done a bit of play around with front end web development specifically html and css. I code in Python and R and I am very comfortable with PowerBI.
 
-[![Sumayyah's github stats](https://github-readme-stats.vercel.app/api?username=Sumta4real&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Sumayyah's github stats](https://github-readme-stats.vercel.app/api?username=Sumta4real&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Sumta4real/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumta4real&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumta4real&layout=compact)](https://github.com/Sumta4real/github-readme-stats)
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sumty4deen/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sumty4deen/0" alt="Recent Article 0">
 
